@@ -1,2 +1,2 @@
-# day1_assignment-
+# JavaScript
 day one assigment 
